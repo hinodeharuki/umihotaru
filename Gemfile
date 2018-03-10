@@ -17,7 +17,7 @@ gem "paperclip", "~> 5.0.0.beta1"
 gem 'dropzonejs-rails'
 gem "figaro", "~> 1.1.0"
 gem 'pg'
-gem 'aws-sdk'
+# gem 'aws-sdk'
 
 group :production do 
 	gem 'pg'
