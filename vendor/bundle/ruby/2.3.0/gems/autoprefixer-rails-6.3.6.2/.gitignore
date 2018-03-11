@@ -1,9 +1,0 @@
-*.DS_Store
-*~
-
-pkg/
-
-.bundle
-*.lock
-
-config/application.yml
